@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.persijap.jepara"
+    android:versionCode="1"
+    android:versionName="0.2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission-sdk-23 android:name="android.permission.INTERNET" />
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_lain_round"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="id.persijap.jepara.StartApp"
+            android:label="@string/app_name"
+            android:theme="@style/Splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="id.persijap.jepara.MainActivity"
+            android:label="Home" />
+        <activity
+            android:name="id.persijap.jepara.Berita"
+            android:label="Berita Persijap"
+            android:parentActivityName="id.persijap.jepara.MainActivity"
+            android:theme="@style/Splash" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="id.persijap.jepara.Jadwal"
+            android:label="Jadwal Persijap"
+            android:parentActivityName="id.persijap.jepara.MainActivity"
+            android:theme="@style/Splash" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="id.persijap.jepara.Klasemen"
+            android:label="Klasemen"
+            android:parentActivityName="id.persijap.jepara.MainActivity"
+            android:theme="@style/Splash" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="id.persijap.jepara.Persijaptv"
+            android:label="Persijap TV"
+            android:parentActivityName="id.persijap.jepara.MainActivity"
+            android:theme="@style/Splash" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="id.persijap.jepara.About"
+            android:label="Tentang"
+            android:parentActivityName="id.persijap.jepara.MainActivity"
+            android:theme="@style/Splash" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="id.persijap.jepara.Gallery"
+            android:label="Galeri"
+            android:parentActivityName="id.persijap.jepara.MainActivity"
+            android:theme="@style/Splash" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="id.persijap.jepara.Home"
+            android:label="TES"
+            android:parentActivityName="id.persijap.jepara.MainActivity"
+            android:theme="@style/Splash" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="id.persijap.jepara.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+   <group>
+	<item
+	 android:id="@+id/drawer_home"
+	 android:icon="@drawable/list_menu"
+	 android:title="Home"
+	 android:textSize="17sp"/>
+        <item
+	    android:id="@+id/drawer_jadwal"
+	    android:icon="@drawable/list_menu"
+	    android:title="Jadwal"
+	    android:textSize="17sp"/>
+	  <item
+	    android:id="@+id/drawer_berita"
+	    android:icon="@drawable/list_menu"
+	    android:title="Berita"
+	    android:textSize="17sp"/>
+       <item
+	   android:id="@+id/drawer_klasemen"
+	   android:icon="@drawable/list_menu"
+	   android:title="Klasemen"
+	   android:textSize="17sp"/>
+       <item
+	   android:id="@+id/drawer_ptv"
+	   android:icon="@drawable/list_menu"
+	   android:title="Persijap TV"
+	   android:textSize="17sp"/>
+	 <item
+	     android:id="@+id/drawer_tentang"
+	     android:icon="@drawable/list_menu"
+	     android:title="Tentang Aplikasi"
+	     android:textSize="17sp"/>
+	 <item
+	     android:id="@+id/drawer_exit"
+	     android:icon="@drawable/ic_exit"
+	     android:title="Keluar"
+	     android:textSize="17sp"/>
+     </group>
+</menu>

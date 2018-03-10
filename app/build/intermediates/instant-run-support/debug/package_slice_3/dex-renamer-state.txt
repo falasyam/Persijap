@@ -1,0 +1,4 @@
+#Sat Nov 04 12:07:22 ICT 2017
+base.0=D\:\\aplikasi\\Persijap\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+renamed.0=classes.dex
+file.0=D\:\\aplikasi\\Persijap\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3\\classes.dex

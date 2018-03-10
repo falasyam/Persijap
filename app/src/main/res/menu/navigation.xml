@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="HOME" />
+
+    <item
+        android:id="@+id/berita"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="BERITA" />
+
+    <item
+        android:id="@+id/klub"
+        android:icon="@drawable/persijap"
+        android:title="KLUB" />
+
+    <item
+        android:id="@+id/pemain"
+        android:icon="@drawable/ic_person"
+        android:title="PEMAIN" />
+
+    <item
+        android:id="@+id/ptv"
+        android:icon="@drawable/ic_persijaptv"
+        android:title="PERSIJAP TV" />
+
+</menu>

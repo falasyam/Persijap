@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C62828</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorPrimaryLight">#FFCDD2</color>
+    <color name="colorAccent">#e40c0c</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="iconColor">#000000</color>
+    <color name="ate_control_normal_dark">#494949</color>
+    <color name="ate_control_normal_light">#fff</color>
+
+
+</resources>
