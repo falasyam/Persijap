@@ -1,37 +1,56 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-93:12
-INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-93:12
-INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-93:12
-INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-93:12
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\2c405d47743959511575cc6c0402f88f\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\171059d76bc606d7c528ca311b756c82\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\ef83f46165ebd1b35b3b0ed1699dfb72\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\64f4adb4eeb08d1ccd1168f9308db189\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\bddbbc3914696f42e6cd4d58b69d1ca6\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c649cb4e48d28422de9571678d96b132\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\c5fb0a13d7c6ee6f9ebddd476d6c161d\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\37d8b866a805beb3d2feec7b3fdbd15c\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ef40091f50fbf5f11b4cf668d7073ae0\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\1f362ac5f764c1da33f7a034b63614e9\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\46338de9e90ef9747394321f0c4f94f3\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\7f641f8c4a8fb4da5fd10a36cceff2c8\AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\44da775e4b48c4a40041b648b349f6f3\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\1868830bd2e335c410ea2ca26a7ac4f7\AndroidManifest.xml:17:1-31:12
-INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-93:12
-INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-93:12
-INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-93:12
+ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-75:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a0f5fa78d5a0ab4cd299af1b6a7d5958\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\04968e3046e0d1ef99b40374462f018d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\41015b6769274df4db4d8c581bc58ae5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\bab961b7996d4f2b57847890f9858483\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8f6eb4433026f824af029efd27b57eaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\73c9df5743b897f8735b25b36b15ae83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\fe9163478202dd374badbdc1b975ea44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\62bb9fff9ee4bc9d85f6712e8e50acc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f929e28f3c6ecbc22cce343088e9e305\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f202d6a5ebe9d57fc594ac2c96a24bfc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b194320c26b507560a88f1c03d7f2d8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bac305a4acc73d05373d9999323e8ce8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\195d9882006a75ddd94084f01451c71e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5f85ce5770c6ef84cb9fd3e550b7cbd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\cbe1af13788b7f194221fd61da9f430e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7984ba2b7b5555e34c972c5bfceddcf3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\37ad219b273d41e6081c969ddf5ee691\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a6e7f6eb809a8d09182ddc56701ff3e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\45cee4d5bb7831e7c2ca78ea892fe04c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5dde7f4a6a7db1e86032e756c1026f82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\db0f7915218d4b732b49270a30e156b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b77083681c8387251bc015907d2d657d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\db412d42d27fb4e5fa2a25d884f36748\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b134238a761f262f20ac6bb2a79f4f9e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07c9dbca1a4e15ac7fe7192f1e0547fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6d600c1fdb0153503142c7b5e06b1fc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5a80df017b3bf2abf00fd1f100b88681\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b8464fffa1f8e4d4571eab8b9568fc73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\23cf097a56d55633ed7bca43392b7f03\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ba56463226a7d3bf0928134cc35ece75\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c4734646864680f795d4bc3a1f25c67d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8a112f3b6d65d8a7cbfa0470b5d100c8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f13b26959b7004dee98b23c4287dc47a\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-75:12
 	package
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
 		INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-93:12
+		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-75:12
 		INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-93:12
+		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:1-75:12
 		INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:2:11-69
@@ -52,33 +71,15 @@ ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:8:5-85
 	android:name
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:8:29-83
 application
-ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:10:5-91:19
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\2c405d47743959511575cc6c0402f88f\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\2c405d47743959511575cc6c0402f88f\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\171059d76bc606d7c528ca311b756c82\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\171059d76bc606d7c528ca311b756c82\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\ef83f46165ebd1b35b3b0ed1699dfb72\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\ef83f46165ebd1b35b3b0ed1699dfb72\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\64f4adb4eeb08d1ccd1168f9308db189\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\64f4adb4eeb08d1ccd1168f9308db189\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\bddbbc3914696f42e6cd4d58b69d1ca6\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\bddbbc3914696f42e6cd4d58b69d1ca6\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c649cb4e48d28422de9571678d96b132\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c649cb4e48d28422de9571678d96b132\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\c5fb0a13d7c6ee6f9ebddd476d6c161d\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\c5fb0a13d7c6ee6f9ebddd476d6c161d\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\37d8b866a805beb3d2feec7b3fdbd15c\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\37d8b866a805beb3d2feec7b3fdbd15c\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ef40091f50fbf5f11b4cf668d7073ae0\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ef40091f50fbf5f11b4cf668d7073ae0\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\1f362ac5f764c1da33f7a034b63614e9\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\1f362ac5f764c1da33f7a034b63614e9\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\46338de9e90ef9747394321f0c4f94f3\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\46338de9e90ef9747394321f0c4f94f3\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\44da775e4b48c4a40041b648b349f6f3\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\44da775e4b48c4a40041b648b349f6f3\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\1868830bd2e335c410ea2ca26a7ac4f7\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\1868830bd2e335c410ea2ca26a7ac4f7\AndroidManifest.xml:29:5-20
+ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:10:5-73:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a0f5fa78d5a0ab4cd299af1b6a7d5958\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a0f5fa78d5a0ab4cd299af1b6a7d5958\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b77083681c8387251bc015907d2d657d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b77083681c8387251bc015907d2d657d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\db412d42d27fb4e5fa2a25d884f36748\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\db412d42d27fb4e5fa2a25d884f36748\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b77083681c8387251bc015907d2d657d\AndroidManifest.xml:22:18-91
 	android:label
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:14:9-41
 	android:roundIcon
@@ -97,7 +98,7 @@ ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:16:9-25:20
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:19:13-42
 	android:name
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:17:13-37
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
 ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:21:17-69
@@ -129,102 +130,118 @@ ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:34:13-36:49
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:36:17-46
 	android:name
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:35:17-63
-activity#id.persijap.jepara.Jadwal
+activity#id.persijap.jepara.Persijaptv
 ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:38:9-46:20
 	android:parentActivityName
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:41:13-55
 	android:label
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:40:13-44
+		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:40:13-40
 	android:theme
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:42:13-42
 	android:name
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:39:13-35
-activity#id.persijap.jepara.Klasemen
+		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:39:13-39
+activity#id.persijap.jepara.About
 ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:47:9-55:20
 	android:parentActivityName
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:50:13-55
 	android:label
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:49:13-37
+		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:49:13-36
 	android:theme
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:51:13-42
 	android:name
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:48:13-37
-activity#id.persijap.jepara.Persijaptv
+		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:48:13-34
+activity#id.persijap.jepara.Gallery
 ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:56:9-64:20
 	android:parentActivityName
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:59:13-55
 	android:label
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:58:13-40
+		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:58:13-35
 	android:theme
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:60:13-42
 	android:name
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:57:13-39
-activity#id.persijap.jepara.About
-ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:65:9-73:20
-	android:parentActivityName
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:68:13-55
-	android:label
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:67:13-36
-	android:theme
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:69:13-42
-	android:name
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:66:13-34
-activity#id.persijap.jepara.Gallery
-ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:74:9-82:20
-	android:parentActivityName
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:77:13-55
-	android:label
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:76:13-35
-	android:theme
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:78:13-42
-	android:name
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:75:13-36
+		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:57:13-36
 activity#id.persijap.jepara.Home
-ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:83:9-90:20
+ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:65:9-72:20
 	android:parentActivityName
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:85:13-55
+		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:67:13-55
 	android:label
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:84:13-32
+		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:66:13-32
 	android:theme
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:86:13-42
+		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:68:13-42
 	android:name
-		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:83:19-39
+		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml:65:19-39
 uses-sdk
 INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
 INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\2c405d47743959511575cc6c0402f88f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\2c405d47743959511575cc6c0402f88f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\171059d76bc606d7c528ca311b756c82\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\171059d76bc606d7c528ca311b756c82\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\ef83f46165ebd1b35b3b0ed1699dfb72\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\ef83f46165ebd1b35b3b0ed1699dfb72\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\64f4adb4eeb08d1ccd1168f9308db189\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\64f4adb4eeb08d1ccd1168f9308db189\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\bddbbc3914696f42e6cd4d58b69d1ca6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\bddbbc3914696f42e6cd4d58b69d1ca6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c649cb4e48d28422de9571678d96b132\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c649cb4e48d28422de9571678d96b132\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\c5fb0a13d7c6ee6f9ebddd476d6c161d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\c5fb0a13d7c6ee6f9ebddd476d6c161d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\37d8b866a805beb3d2feec7b3fdbd15c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\37d8b866a805beb3d2feec7b3fdbd15c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ef40091f50fbf5f11b4cf668d7073ae0\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ef40091f50fbf5f11b4cf668d7073ae0\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\1f362ac5f764c1da33f7a034b63614e9\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\1f362ac5f764c1da33f7a034b63614e9\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\46338de9e90ef9747394321f0c4f94f3\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\46338de9e90ef9747394321f0c4f94f3\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\7f641f8c4a8fb4da5fd10a36cceff2c8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\7f641f8c4a8fb4da5fd10a36cceff2c8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\44da775e4b48c4a40041b648b349f6f3\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\44da775e4b48c4a40041b648b349f6f3\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\1868830bd2e335c410ea2ca26a7ac4f7\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\1868830bd2e335c410ea2ca26a7ac4f7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:design:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a0f5fa78d5a0ab4cd299af1b6a7d5958\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a0f5fa78d5a0ab4cd299af1b6a7d5958\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\04968e3046e0d1ef99b40374462f018d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\04968e3046e0d1ef99b40374462f018d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\41015b6769274df4db4d8c581bc58ae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\41015b6769274df4db4d8c581bc58ae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\bab961b7996d4f2b57847890f9858483\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\bab961b7996d4f2b57847890f9858483\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8f6eb4433026f824af029efd27b57eaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8f6eb4433026f824af029efd27b57eaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\73c9df5743b897f8735b25b36b15ae83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\73c9df5743b897f8735b25b36b15ae83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\fe9163478202dd374badbdc1b975ea44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\fe9163478202dd374badbdc1b975ea44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\62bb9fff9ee4bc9d85f6712e8e50acc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\62bb9fff9ee4bc9d85f6712e8e50acc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f929e28f3c6ecbc22cce343088e9e305\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f929e28f3c6ecbc22cce343088e9e305\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f202d6a5ebe9d57fc594ac2c96a24bfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f202d6a5ebe9d57fc594ac2c96a24bfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b194320c26b507560a88f1c03d7f2d8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b194320c26b507560a88f1c03d7f2d8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bac305a4acc73d05373d9999323e8ce8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bac305a4acc73d05373d9999323e8ce8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\195d9882006a75ddd94084f01451c71e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\195d9882006a75ddd94084f01451c71e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5f85ce5770c6ef84cb9fd3e550b7cbd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5f85ce5770c6ef84cb9fd3e550b7cbd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\cbe1af13788b7f194221fd61da9f430e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\cbe1af13788b7f194221fd61da9f430e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7984ba2b7b5555e34c972c5bfceddcf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7984ba2b7b5555e34c972c5bfceddcf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\37ad219b273d41e6081c969ddf5ee691\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\37ad219b273d41e6081c969ddf5ee691\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a6e7f6eb809a8d09182ddc56701ff3e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a6e7f6eb809a8d09182ddc56701ff3e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\45cee4d5bb7831e7c2ca78ea892fe04c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\45cee4d5bb7831e7c2ca78ea892fe04c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5dde7f4a6a7db1e86032e756c1026f82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5dde7f4a6a7db1e86032e756c1026f82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\db0f7915218d4b732b49270a30e156b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\db0f7915218d4b732b49270a30e156b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b77083681c8387251bc015907d2d657d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b77083681c8387251bc015907d2d657d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\db412d42d27fb4e5fa2a25d884f36748\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\db412d42d27fb4e5fa2a25d884f36748\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b134238a761f262f20ac6bb2a79f4f9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b134238a761f262f20ac6bb2a79f4f9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07c9dbca1a4e15ac7fe7192f1e0547fc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07c9dbca1a4e15ac7fe7192f1e0547fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6d600c1fdb0153503142c7b5e06b1fc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6d600c1fdb0153503142c7b5e06b1fc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5a80df017b3bf2abf00fd1f100b88681\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5a80df017b3bf2abf00fd1f100b88681\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b8464fffa1f8e4d4571eab8b9568fc73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b8464fffa1f8e4d4571eab8b9568fc73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\23cf097a56d55633ed7bca43392b7f03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\23cf097a56d55633ed7bca43392b7f03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ba56463226a7d3bf0928134cc35ece75\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ba56463226a7d3bf0928134cc35ece75\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c4734646864680f795d4bc3a1f25c67d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c4734646864680f795d4bc3a1f25c67d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8a112f3b6d65d8a7cbfa0470b5d100c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8a112f3b6d65d8a7cbfa0470b5d100c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f13b26959b7004dee98b23c4287dc47a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f13b26959b7004dee98b23c4287dc47a\AndroidManifest.xml:20:5-44
 INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
 INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\171059d76bc606d7c528ca311b756c82\AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
 		INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
@@ -233,35 +250,3 @@ INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
 		INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
 		ADDED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
 		INJECTED from D:\aplikasi\Persijap\app\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\2c405d47743959511575cc6c0402f88f\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\171059d76bc606d7c528ca311b756c82\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\171059d76bc606d7c528ca311b756c82\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\ef83f46165ebd1b35b3b0ed1699dfb72\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\ef83f46165ebd1b35b3b0ed1699dfb72\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\64f4adb4eeb08d1ccd1168f9308db189\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\64f4adb4eeb08d1ccd1168f9308db189\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\bddbbc3914696f42e6cd4d58b69d1ca6\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\bddbbc3914696f42e6cd4d58b69d1ca6\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c649cb4e48d28422de9571678d96b132\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c649cb4e48d28422de9571678d96b132\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\c5fb0a13d7c6ee6f9ebddd476d6c161d\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\c5fb0a13d7c6ee6f9ebddd476d6c161d\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\37d8b866a805beb3d2feec7b3fdbd15c\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\37d8b866a805beb3d2feec7b3fdbd15c\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ef40091f50fbf5f11b4cf668d7073ae0\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ef40091f50fbf5f11b4cf668d7073ae0\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\1f362ac5f764c1da33f7a034b63614e9\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\1f362ac5f764c1da33f7a034b63614e9\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\46338de9e90ef9747394321f0c4f94f3\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\46338de9e90ef9747394321f0c4f94f3\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\7f641f8c4a8fb4da5fd10a36cceff2c8\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\7f641f8c4a8fb4da5fd10a36cceff2c8\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\44da775e4b48c4a40041b648b349f6f3\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\44da775e4b48c4a40041b648b349f6f3\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\1868830bd2e335c410ea2ca26a7ac4f7\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\1868830bd2e335c410ea2ca26a7ac4f7\AndroidManifest.xml:25:5-27:41
-	android:value
-		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\2c405d47743959511575cc6c0402f88f\AndroidManifest.xml:24:9-38
-	android:name
-		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\mitracomp\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\2c405d47743959511575cc6c0402f88f\AndroidManifest.xml:23:9-47

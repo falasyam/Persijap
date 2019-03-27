@@ -12,9 +12,9 @@
         android:title="BERITA" />
 
     <item
-        android:id="@+id/klub"
+        android:id="@+id/gallery"
         android:icon="@drawable/persijap"
-        android:title="KLUB" />
+        android:title="GALLERY" />
 
     <item
         android:id="@+id/pemain"

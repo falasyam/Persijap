@@ -4,33 +4,54 @@
             "outputFile": "D:\\aplikasi\\Persijap\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mitracomp\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-26.0.0-alpha1.aar\\2c405d47743959511575cc6c0402f88f\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\mitracomp\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0.aar\\04968e3046e0d1ef99b40374462f018d\\res\\values-v23\\values-v23.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "200"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
-                        "startLines": "37",
+                        "startLines": "43",
                         "startColumns": "4",
-                        "startOffsets": "2646",
-                        "endLines": "39",
+                        "startOffsets": "2711",
+                        "endLines": "45",
                         "endColumns": "12",
-                        "endOffsets": "2791"
+                        "endOffsets": "2856"
                     }
                 },
                 {
-                    "source": "C:\\Users\\mitracomp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\64f4adb4eeb08d1ccd1168f9308db189\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\mitracomp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\8f6eb4433026f824af029efd27b57eaf\\res\\values-v23\\values-v23.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,25,38,39,40,41,42",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
-                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "startOffsets": "412,547,682,757,844,1488,2144,2271,2376,2491,2598",
+                        "endLines": "8,9,10,11,24,37,38,39,40,41,42",
                         "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
-                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                        "endOffsets": "542,677,752,839,1483,2139,2266,2371,2486,2593,2706"
+                    }
+                },
+                {
+                    "source": "D:\\aplikasi\\Persijap\\app\\src\\main\\res\\values-v23\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "416"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "407"
                     }
                 }
             ]

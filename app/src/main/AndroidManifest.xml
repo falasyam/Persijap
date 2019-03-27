@@ -36,24 +36,6 @@
                 android:value=".MainActivity" />
         </activity>
         <activity
-            android:name=".Jadwal"
-            android:label="Jadwal Persijap"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/Splash">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
-        </activity>
-        <activity
-            android:name=".Klasemen"
-            android:label="Klasemen"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/Splash">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
-        </activity>
-        <activity
             android:name=".Persijaptv"
             android:label="Persijap TV"
             android:parentActivityName=".MainActivity"

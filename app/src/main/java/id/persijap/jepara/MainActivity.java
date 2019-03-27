@@ -3,6 +3,7 @@ package id.persijap.jepara;
 import android.app.*;
 import android.os.*;
 import android.support.annotation.NonNull;
+import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.support.design.widget.NavigationView;
@@ -26,7 +27,7 @@ import android.webkit.*;
 import android.net.*;
 import android.graphics.*;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {
 
     private Toolbar tb;
     private NavigationView nv;
@@ -45,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
                     return true;
                 case R.id.berita:
                     return true;
-                case R.id.klub:
+                case R.id.gallery:
                     return true;
                 case R.id.pemain:
                     return true;
@@ -63,102 +64,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.main);
 
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
-        navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
-        Toolbar();
-
-        btnberita = (Button) findViewById(R.id.btnBerita);
-        btnberita.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, Berita.class));
-            }
-        });
-
-        btnJadwal = (Button) findViewById(R.id.btnJadwal);
-        btnJadwal.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, Jadwal.class));
-            }
-        });
-        btnKlasemen = (Button) findViewById(R.id.btnKlasemen);
-        btnKlasemen.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, Klasemen.class));
-            }
-        });
-        btnPtv = (Button) findViewById(R.id.btnPTV);
-        btnPtv.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, Persijaptv.class));
-            }
-        });
-        btnGallery = (Button) findViewById(R.id.btnGallery);
-        btnGallery.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, Gallery.class));
-            }
-        });
-
+        navigation.setOnNavigationItemSelectedListener(this);
+        loadFragment(new Home());
 
     }
 
-    private void Toolbar() {
-        //Tampilkan Toolbar
-        tb = (Toolbar) findViewById(R.id.main_toolbar);
-        setSupportActionBar(tb);
-        tb.setTitle(R.string.app_name);
-        tb.setNavigationIcon(R.drawable.ic_menu);
-
-        //Tampilkan Drawer Layout
-        dl = (DrawerLayout) findViewById(R.id.drawer_layout);
-        dl.setDrawerListener(new ActionBarDrawerToggle(this, dl, tb, R.string.drawer_open, R.string.drawer_close));
-
-        //Tampilkan NavigationView
-        nv = (NavigationView) findViewById(R.id.navigation_view);
-        nv.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
-            @Override
-            public boolean onNavigationItemSelected(MenuItem menuItem) {
-
-                if (menuItem.isChecked()) menuItem.setChecked(false);
-                else menuItem.setChecked(true);
-
-                dl.closeDrawers();
-
-                switch (menuItem.getItemId()) {
-                    case R.id.drawer_home:
-                        startActivity(new Intent(MainActivity.this, Home.class));
-                        return true;
-                    case R.id.drawer_jadwal:
-                        startActivity(new Intent(MainActivity.this, Jadwal.class));
-                        return true;
-                    case R.id.drawer_berita:
-                        startActivity(new Intent(MainActivity.this, Berita.class));
-                        return true;
-                    case R.id.drawer_klasemen:
-                        startActivity(new Intent(MainActivity.this, Klasemen.class));
-                        return true;
-                    case R.id.drawer_ptv:
-                        startActivity(new Intent(MainActivity.this, Persijaptv.class));
-                        return true;
-                    case R.id.drawer_tentang:
-                        startActivity(new Intent(MainActivity.this, About.class));
-                        return true;
-                    case R.id.drawer_exit:
-                        showDialog();
-                    default:
-                        return true;
-
-                }
-
-            }
-
-
-        });
-    }
 
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event) {
@@ -194,4 +104,35 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    @Override
+    public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
+        Fragment fragment = null;
+
+        switch (menuItem.getItemId()){
+            case R.id.home:
+                fragment = new Home();
+                break;
+            case R.id.berita:
+                fragment = new Berita();
+                break;
+            case R.id.gallery:
+                fragment = new Berita();
+                break;
+            case R.id.pemain:
+                fragment = new Pemain();
+                break;
+            case R.id.persijaptv:
+                fragment = new Persijaptv();
+                break;
+        }
+        return loadFragment(fragment);
+    }
+
+    private boolean loadFragment(Fragment fragment){
+        if (fragment != null){
+            getSupportFragmentManager().beginTransaction().replace(R.id.fl_container, fragment).commit();
+            return true;
+        }
+        return false;
+    }
 }
