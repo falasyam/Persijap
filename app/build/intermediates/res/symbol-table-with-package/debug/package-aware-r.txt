@@ -1182,7 +1182,6 @@ id persijaptv
 id pin
 id progress_circular
 id progress_horizontal
-id ptv
 id radio
 id right
 id right_icon
@@ -1263,6 +1262,7 @@ id unlabeled
 id up
 id useLogo
 id view_offset_helper
+id viewhome
 id visible
 id visit_website
 id withText

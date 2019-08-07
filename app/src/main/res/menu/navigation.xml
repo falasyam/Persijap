@@ -22,7 +22,7 @@
         android:title="PEMAIN" />
 
     <item
-        android:id="@+id/ptv"
+        android:id="@+id/persijaptv"
         android:icon="@drawable/ic_persijaptv"
         android:title="PERSIJAP TV" />
 

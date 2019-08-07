@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
                     return true;
                 case R.id.pemain:
                     return true;
-                case R.id.ptv:
+                case R.id.persijaptv:
                     return true;
             }
             return false;
